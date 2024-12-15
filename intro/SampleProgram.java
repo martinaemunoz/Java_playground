@@ -1,3 +1,4 @@
+package intro;
 public class SampleProgram {public static void main(String[] args) {
     // llama a los métodos para organizar la salida
         imprimirSaludo();

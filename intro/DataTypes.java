@@ -1,3 +1,4 @@
+package intro;
 public class DataTypes {
     public static void main(String[] args) {
         // declaración y asignación de variables
