@@ -12,7 +12,5 @@ public class ComparisonOperators {
         // operadores lógicos
         System.out.println("5 <= 5 && 5 < 5 = " + (5<=5 && 5 < 5));
         System.out.println("5 <= 5 || 5 < 5 = " + (5<=5 || 5 < 5));
-
-        
     }
 }
